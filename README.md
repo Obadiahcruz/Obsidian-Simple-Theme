@@ -7,7 +7,7 @@ This is a theme made for the note taking program called Obsidian.
 - Simple. 
 ----
 
-> known issue: when trying to move windows around you can get confused where to place them since it uses same scheme background color. will try to be fixed at a later time. 
+> known issue: When trying to move multiple page windows around, you could get confused since it uses same scheme background color. Will try to have it fixed at a later time. 
 
 ---
 ![](images/Screenshot1.jpg)
