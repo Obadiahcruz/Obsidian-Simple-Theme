@@ -1,4 +1,4 @@
-# Obsidian-simple-Theme
+# Obsidian-Simple-Theme
 This is a theme made for the note taking program called Obsidian. 
 
 # Why?
