@@ -5,6 +5,9 @@ This is a theme made for the note taking program called Obsidian.
 - hides all bars and icons to allow a non-intrusive experience. 
 - colorful headers
 - Simple. 
+----
+
+> known issue: when trying to move windows around you can get confused where to place them since it uses same scheme background color. will try to be fixed at a later time. 
 
 ---
 ![](images/Screenshot1.jpg)
