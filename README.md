@@ -20,4 +20,4 @@ This is a theme made for the note taking program called Obsidian.
 ![](images/Screenshotlast.jpg)
 ---
 #### Who Created This?
-- I alone created this project. However, this project includes amazing tweaks that were made by multiple users in the obsidian forum. Thanks to all of them that this project was made possible. P.S. i would name them but they are too many to name and i forgot how many i used 
+- Even though i created this theme, it is a compilation of all of the found tweaks(hacks) that were made by various users in the obsidian forum. Thanks to all of them that this project was made possible. P.S. i would name them but they are too many to name and i forgot how many i used 
